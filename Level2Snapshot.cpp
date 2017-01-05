@@ -6,7 +6,7 @@
 
 /* 
  * File:   Level2Snapshot.cpp
- * Author: niels
+ * Author: Niels Rothermel
  * 
  * Created on 2. März 2016, 15:53
  */
